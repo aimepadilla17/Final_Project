@@ -15,8 +15,8 @@ Brain MRI Images for Brain Tumor Detection.
 
 *Autoras*
 
-Aime Padilla
-Cinthia Pecina
-Andrea Barrera
-Paola De Leon
-Fernanda Luque
+Aime Padilla,
+Cinthia Pecina,
+Andrea Barrera,
+Paola De Leon,
+Fernanda Luque.
